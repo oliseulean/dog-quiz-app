@@ -15,7 +15,7 @@ cd quiz_app
 ## Project setup
 
 ```
-yarn
+yarn install
 ```
 
 ### Start project
